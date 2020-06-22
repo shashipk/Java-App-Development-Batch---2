@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee4acac2-d581-4e43-a819-5847eb11be8e" name="Default Changelist" comment="" />
+    <list default="true" id="ee4acac2-d581-4e43-a819-5847eb11be8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MT-Basics-JADL-2/META-INF/MT-Basics-JADL-2.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +17,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dP3FYYBTagQK8Lz5xmVt3njzXD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.BankSynchronization">
+    <configuration name="BankSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BankSynchronization" />
+      <module name="MT-Basics-JADL-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Factorial" />
       <module name="MT-Basics-JADL-2" />
@@ -71,13 +96,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ThreadRunnable" />
+      <item itemvalue="Application.BankSynchronization" />
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MultiThreadedFactorial" />
+      <item itemvalue="Application.ThreadRunnable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankSynchronization" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MultiThreadedFactorial" />
         <item itemvalue="Application.Factorial" />
@@ -111,46 +138,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="4" key="#com.intellij.ide.util.MemberChooser" timestamp="1592318599091">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1592816842879">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="4" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592318599091" />
-    <state width="1311" height="163" key="GridCell.Tab.0.bottom" timestamp="1592321296639">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592816842879" />
+    <state width="1311" height="179" key="GridCell.Tab.0.bottom" timestamp="1592819486817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592321296639" />
-    <state width="1311" height="163" key="GridCell.Tab.0.center" timestamp="1592321296639">
+    <state width="1311" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592819486817" />
+    <state width="1311" height="179" key="GridCell.Tab.0.center" timestamp="1592819486817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592321296639" />
-    <state width="1311" height="163" key="GridCell.Tab.0.left" timestamp="1592321296639">
+    <state width="1311" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592819486817" />
+    <state width="1311" height="179" key="GridCell.Tab.0.left" timestamp="1592819486817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592321296639" />
-    <state width="1311" height="163" key="GridCell.Tab.0.right" timestamp="1592321296639">
+    <state width="1311" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592819486817" />
+    <state width="1311" height="179" key="GridCell.Tab.0.right" timestamp="1592819486817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592321296639" />
-    <state width="1311" height="282" key="GridCell.Tab.1.bottom" timestamp="1592316841513">
+    <state width="1311" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592819486817" />
+    <state width="1311" height="56" key="GridCell.Tab.1.bottom" timestamp="1592818342575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="282" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592316841513" />
-    <state width="1311" height="282" key="GridCell.Tab.1.center" timestamp="1592316841513">
+    <state width="1311" height="56" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592818342575" />
+    <state width="1311" height="56" key="GridCell.Tab.1.center" timestamp="1592818342575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="282" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592316841513" />
-    <state width="1311" height="282" key="GridCell.Tab.1.left" timestamp="1592316841513">
+    <state width="1311" height="56" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592818342575" />
+    <state width="1311" height="56" key="GridCell.Tab.1.left" timestamp="1592818342575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="282" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592316841513" />
-    <state width="1311" height="282" key="GridCell.Tab.1.right" timestamp="1592316841513">
+    <state width="1311" height="56" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592818342575" />
+    <state width="1311" height="56" key="GridCell.Tab.1.right" timestamp="1592818342575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="282" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592316841513" />
+    <state width="1311" height="56" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592818342575" />
     <state x="337" y="42" width="675" height="655" key="StructurePopup" timestamp="1592316682463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="42" width="675" height="655" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1592316682463" />
+    <state x="0" y="0" key="new project wizard" timestamp="1592821411623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592821411623" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
