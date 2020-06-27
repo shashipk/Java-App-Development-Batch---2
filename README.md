@@ -24,6 +24,7 @@ Install MySQL (including workbench) and try some commands(Creating table etc.) (
 Study about REST APIs (GET, POST, PUT etc.) (Useful links given below)
 
 # Useful links:
+
 For REST APIs https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn (only first 7 videos of this playlist)
 
 For core Java: https://www.geeksforgeeks.org/java/ https://www.w3schools.com/JAVA/default.asp https://www.youtube.com/watch?v=W-N2ltgU-X4
@@ -67,3 +68,28 @@ https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSr
 https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB
 
 ==============================================================
+
+# Java and Spring Interview Questions:
+
+https://www.baeldung.com/spring-boot-interview-questions?fbclid=IwAR1LAIhIP89fMGTcZymcWR55QQu0a-z0q4alXmwLZMMKTaS6JHlb4lpvRjs
+
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+
+# Resume:
+
+https://www.careercup.com/resume
+
+You can add these skills to your resume/profile after the course completion:
+
+Java, Spring / Spring Boot, REST APIs, MySQL, JPA / Hibernate, JDBC, Socket Programming, Maven, Postman, Swagger
+
+# Other Links:
+For Deploying on AWS: https://www.youtube.com/watch?v=6RrqytT0-I8
+
+Object Oriented Design (OOPs) related questions:
+
+https://www.geeksforgeeks.org/design-snake-game/
+
+https://www.geeksforgeeks.org/design-online-hotel-booking-system-like-oyo-rooms/
+
+https://www.geeksforgeeks.org/design-an-online-book-reader-system/
